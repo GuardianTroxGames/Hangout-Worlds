@@ -1,0 +1,8 @@
+{
+  "name": "hangout-worlds",
+  "version": "1.0.0",
+  "description": "3D multiplayer hangout with mini-games",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
